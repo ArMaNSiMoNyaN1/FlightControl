@@ -1,0 +1,7 @@
+C:\Users\USER\RiderProjects\FlightControl\FlightControl\obj\Debug\net8.0\FlightControl.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\FlightControl\FlightControl\obj\Debug\net8.0\FlightControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\FlightControl\FlightControl\obj\Debug\net8.0\FlightControl.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\FlightControl\FlightControl\obj\Debug\net8.0\FlightControl.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\FlightControl\FlightControl\obj\Debug\net8.0\FlightControl.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\FlightControl\FlightControl\obj\Debug\net8.0\FlightControl.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\RiderProjects\FlightControl\FlightControl\obj\Debug\net8.0\FlightControl.MvcApplicationPartsAssemblyInfo.cache
